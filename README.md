@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @DimonSleep
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python3
 - 💞️ I’m love my startup ))
 - 📫 andonidumitru1@gmail.com
 
